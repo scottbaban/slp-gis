@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "GID_2": "PHL.3.12_1",
+    "GID_0": "PHL",
+    "COUNTRY": "Philippines",
+    "GID_1": "PHL.3_1",
+    "NAME_1": "AgusandelSur",
+    "NL_NAME_1": "NA",
+    "NAME_2": "Talacogon",
+    "VARNAME_2": "NA",
+    "NL_NAME_2": "NA",
+    "TYPE_2": "Bayan|Munisipyo",
+    "ENGTYPE_2": "Municipality",
+    "CC_2": "160311",
+    "HASC_2": "PH.AS.TL"
+  },
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [125.7582, 8.391],
+          [125.7402, 8.3909],
+          [125.742, 8.4625],
+          [125.7681, 8.464],
+          [125.7675, 8.4744],
+          [125.8416, 8.4758],
+          [125.8793, 8.4146],
+          [125.8903, 8.3927],
+          [125.7582, 8.391]
+        ]
+      ]
+    ]
+  }
+}
