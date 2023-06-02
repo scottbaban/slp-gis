@@ -6,7 +6,7 @@ import './NCRPhProjects.css'; // Import the CSS file for styling
 function NCRPhProjects() {
   return (
     <div>
-      <h1>SD Projects in NCR (2017-2021)</h1>
+      <h1>SD Projects in Metro Manila (2017-2021)</h1>
       <Link to="/">Go back to PH Map</Link>
 
       <table>
