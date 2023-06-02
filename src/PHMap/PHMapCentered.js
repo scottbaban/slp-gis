@@ -98,15 +98,15 @@ function Legend() {
       </div>
       <h4>Regions:</h4>
       <div style={{ display: 'flex', alignItems: 'center', marginBottom: '5px' }}>
-        <div style={{ backgroundColor: 'violet', width: '20px', height: '10px', marginRight: '5px' }}></div>
+        <div style={{ backgroundColor: 'orange', width: '20px', height: '10px', marginRight: '5px' }}></div>
         <span>CARAGA</span>
       </div>
       <div style={{ display: 'flex', alignItems: 'center', marginBottom: '5px', color: 'orange' }}>
-        <div style={{ backgroundColor: 'orange', width: '20px', height: '10px', marginRight: '5px' }}></div>
+        <div style={{ backgroundColor: 'cyan', width: '20px', height: '10px', marginRight: '5px' }}></div>
         <span>BARMM</span>
       </div>
       <div style={{ display: 'flex', alignItems: 'center', marginBottom: '5px', color: 'blue' }}>
-        <div style={{ backgroundColor: 'cyan', width: '20px', height: '10px', marginRight: '5px' }}></div>
+        <div style={{ backgroundColor: 'violet', width: '20px', height: '10px', marginRight: '5px' }}></div>
         <span>Region X</span>
       </div>
     </div>
