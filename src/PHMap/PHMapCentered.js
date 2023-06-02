@@ -5,37 +5,37 @@ import { divIcon } from 'leaflet';
 
 const violetMarkerHtmlStyles = `
   background-color: violet;
-  width: 2rem;
-  height: 2rem;
+  width: 1.5rem;
+  height: 1.5rem;
   display: block;
-  left: -1.5rem;
-  top: -1.5rem;
+  left: -0.75rem;
+  top: -0.75rem;
   position: relative;
-  border-radius: 2rem 2rem 0;
+  border-radius: 1.5rem 1.5rem 0;
   transform: rotate(45deg);
   border: 1px solid #FFFFFF`;
 
 const orangeMarkerHtmlStyles = `
   background-color: orange;
-  width: 2rem;
-  height: 2rem;
+  width: 1.5rem;
+  height: 1.5rem;
   display: block;
-  left: -1.5rem;
-  top: -1.5rem;
+  left: -0.75rem;
+  top: -0.75rem;
   position: relative;
-  border-radius: 2rem 2rem 0;
+  border-radius: 1.5rem 1.5rem 0;
   transform: rotate(45deg);
   border: 1px solid #FFFFFF`;
 
 const cyanMarkerHtmlStyles = `
   background-color: cyan;
-  width: 2rem;
-  height: 2rem;
+  width: 1.5rem;
+  height: 1.5rem;
   display: block;
-  left: -1.5rem;
-  top: -1.5rem;
+  left: -0.75rem;
+  top: -0.75rem;
   position: relative;
-  border-radius: 2rem 2rem 0;
+  border-radius: 1.5rem 1.5rem 0;
   transform: rotate(45deg);
   border: 1px solid #FFFFFF`;
 
